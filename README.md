@@ -1,11 +1,11 @@
-## olá, sou Alexsandro Ferreira 👋
+## Olá, sou Alexsandro Ferreira 👋
 ### Desenvolvedor web em construção. 
 
 
  <div>
   <a href="https://github.com/alexsandroferreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexsandroferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroferreira&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alexsandroferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroferreira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <div style="display: inline_block"><br>
